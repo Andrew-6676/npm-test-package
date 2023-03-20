@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Andrew-6676/npm-test-package/issues"
   },
-  "homepage": "https://github.com/Andrew-6676/npm-test-package#readme"
+  "homepage": "https://github.com/Andrew-6676/npm-test-package#readme",
+  "publishConfig": {
+    "@andrew6676:registry": "https://npm.pkg.github.com"
+  }
 }
